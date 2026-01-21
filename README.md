@@ -72,7 +72,7 @@ Construir una aplicación web en React que implemente:
 ## 🌐 Despliegue Web
 
 🔗 Link Netlify:
-(Agregar aquí el enlace una vez desplegada la aplicación)
+tienda-react-examen.netlify.app
 
 ---
 
